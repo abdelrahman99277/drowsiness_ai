@@ -1,0 +1,8 @@
+# Tested target: Python 3.12 on Windows (mediapipe has no wheels for 3.13/3.14)
+numpy==1.26.4
+opencv-contrib-python==4.10.0.84
+mediapipe==0.10.14
+scikit-learn
+pandas
+joblib
+streamlit
